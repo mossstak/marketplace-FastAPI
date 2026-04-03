@@ -1,0 +1,11 @@
+# Environments
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Alembic
+migrations/versions/*.pyc
